@@ -37,6 +37,14 @@ Demo
 
 ![User response](assets/github-graphql-server1.png)
 
+# REST User response
+
+![rest res](assets/github-graphql-server4.png)
+
 ![Followers request](assets/github-graphql-server2.png)
 
 ![Followers response](assets/github-graphql-server3.png)
+
+# REST Followers response
+
+![followers rest](assets/github-graphql-server5.png)
